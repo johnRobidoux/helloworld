@@ -1,3 +1,6 @@
 bannana
 apple
 pear
+blueberry
+strawberry
+peach

@@ -1,3 +1,6 @@
 blue
 purple
 red
+black
+white
+orange
